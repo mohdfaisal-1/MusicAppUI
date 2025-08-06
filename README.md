@@ -1,6 +1,6 @@
 # 🎵 Music App UI - Android (Jetpack Compose)
 
-This is a beautifully crafted **Music Streaming App UI** built with **Jetpack Compose** in Android. The focus is on modern, responsive design and clean layout implementation — perfect for showcasing UI/UX skills in Android development.
+This is a beautifully crafted **Music Streaming App UI** built with **Jetpack Compose** in Android. The focus is on modern and clean layout implementation — perfect for showcasing UI skills in Android development.
 
 ---
 
